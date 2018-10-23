@@ -4,8 +4,22 @@
 
 ### General
 
-* `<leader> w` Write the file
-* `<leader> q` Close the buffer
+* `<leader> w`  Write the file
+* `<leader> q`  Close the buffer
+* `jj`          Escape (in normal mode)
+* `<leader> cd` Auto change directory to match current file
+* `<leader> x`  Open the current file in the default program
+* `<leader> n`  Toggle NERDTree
+* `<leader> tb` Toggle Tagbar
+* `<leader> d`  Add PHP Docblock
+* `<leader> t`  Run PHPUnit on the current file
+* `:ed`         Create/edit a file in the same directory as the current file
+
+### Abbreviations
+
+* `amod` artisan make:model
+* `amig` artisan make:migration
+* `ajob` artisan make:job
 
 ### CtrlP
 
