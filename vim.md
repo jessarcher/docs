@@ -67,3 +67,41 @@
 * `[c` jump to previous hunk (change)
 * `<leader> hs` stage the hunk
 * `<leader> hu` undo staging the hunk
+
+## Snippets
+
+### PHP
+
+*(Mostly from ~/.vim/bundle/vim-snippets/UltiSnips/php.snippets)*
+
+* `gm` Getter
+* `sm` Setter
+* `gs` Getter & setter
+* `pub` Public method
+* `pro` Protected method
+* `pri` Private method
+* `pubs` Public static method
+* `pros` Protected static method
+* `pris` Private static method
+* `fu` Function
+* `new` New class instance
+* `ns` Namespace
+* `class` Class template
+* `interface` Interface template
+* `trait` Trait template
+* `construct` Constructor template
+* `testcase` TestCase template
+* `testcase6` TestCase template (phpunit 6)
+
+### Laravel
+
+*(Mostly from ~/.vim/bundle/vim-snippets/UltiSnips/php-laravel.snippets)*
+
+* `l_rsc` Resource controller
+* `l_ssp` Service provider for service
+* `l_rsp` Service provider for repository
+* `l_md` Simple model
+* `l_ar` Abstract repository
+* `l_r` Repository
+* `l_s` Service
+* `l_f` Fascade
