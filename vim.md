@@ -51,7 +51,7 @@
 
 ##### Invoking
 
-* `<leader> g`
+* `<leader> ag`
 
 ##### Using
 
@@ -61,12 +61,23 @@
 * `go` to preview file, open but maintain focus on ack.vim results
 * `q`  to close the quickfix window
 
+### argwrap
+
+* `<leader> aw` Wrap/unwrap code
+
+### fugitive
+
+* `<leader> gs` git status
+* `<leader> gc` git commit (verbose)
+* `<leader> gb` git blame (verbose)
+* `<leader> gp` git push
+
 ### gitgutter
 
 * `]c` jump to next hunk (change)
 * `[c` jump to previous hunk (change)
-* `<leader> hs` stage the hunk
-* `<leader> hu` undo staging the hunk
+* `<leader> ga` stage the hunk
+* `<leader> gu` undo staging the hunk
 
 ## Snippets
 
