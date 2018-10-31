@@ -117,3 +117,122 @@
 * `l_r` Repository
 * `l_s` Service
 * `l_f` Fascade
+
+### HTML
+
+#### Entities
+
+* `down` ↓ (down)
+* `enter` ⌅ (enter)
+* `escape` ⎋ (escape)
+* `left` ← (left)
+* `return` ↩ (return)
+* `right` → (right)
+* `shift` ⇧ (shift)
+* `tab` ⇥ (tab)
+* `up` ↑ (up)
+
+#### Elements
+
+* `html` HTML basic structure
+* `htmll` HTML basic structure with the lang attribute
+* `doctype` HTML 5.0 doctype
+* `head` `<head>`
+* `title` `<title>`
+* `viewport` Responsive viewport meta
+* `link` `<link>`
+* `script` `<script>`
+* `scriptsrc` `<script src...>`
+* `style` `<style>`
+* `meta` `<meta>`
+* `body` `<body>`
+* `a` `<a>`
+* `abbr` `<abbr>`
+* `address` `<address>`
+* `article` `<article>`
+* `aside` `<aside>`
+* `b` `<b>`
+* `base` `<base>`
+* `blockquote` `<blockquote>`
+* `br` `<br>`
+* `button` `<button>`
+* `caption` `<caption>`
+* `cite` `<cite>`
+* `code` `<code>`
+* `data` `<data>`
+* `datalist` `<datalist>`
+* `dd` `<dd>`
+* `del` `<del>`
+* `dfn` `<dfn>`
+* `div` `<div>`
+* `div#` `<div id="" class="">`
+* `div.` `<div class="">`
+* `dl` `<dl>`
+* `dt` `<dt>`
+* `em` `<em>`
+* `fieldset` `<fieldset>`
+* `fig` `<figure>`
+* `figcaption` `<figcaption>`
+* `footer` `<footer>`
+* `form` `<form>`
+* `h1` `<h1>`
+* `h2` `<h2>`
+* `h3` `<h3>`
+* `h4` `<h4>`
+* `h5` `<h5>`
+* `h6` `<h6>`
+* `header` `<header>`
+* `hr` `<hr>`
+* `i` `<i>`
+* `img` `<img>`
+* `input` Input with Label
+* `input` `<input>`
+* `ins` `<ins>`
+* `kbd` `<kbd>`
+* `label` `<label>`
+* `legend` `<legend>`
+* `li` `<li>`
+* `mailto` `<a mailto: >`
+* `main` `<main>`
+* `mark` `<mark>`
+* `meter` `<meter>`
+* `nav` `<nav>`
+* `noscript` `<noscript>`
+* `ol` `<ol>`
+* `optgroup` `<optgroup>`
+* `output` `<output>`
+* `option` `<option>`
+* `p` `<p>`
+* `picture` `<picture>`
+* `pre` `<pre>`
+* `progress` `<progress>`
+* `q` `<q>`
+* `s` `<s>`
+* `samp` `<samp>`
+* `select` `<select>`
+* `small` `<small>`
+* `span` `<span>`
+* `span#` `<span id="" class="">`
+* `span.` `<span class="">`
+* `strong` `<strong>`
+* `sub` `<sub>`
+* `sup` `<sup>`
+* `table` `<table>`
+* `tbody` `<tbody>`
+* `td` `<td>`
+* `template` `<template>`
+* `textarea` `<textarea>`
+* `tfoot` `<tfoot>`
+* `th` `<th>`
+* `thead` `<thead>`
+* `time` `<time>`
+* `tr` `<tr>`
+* `ul` `<ul>`
+* `var` `<var>`
+* `wbr` `<wbr>`
+
+#### Attributes
+
+* `access` `accesskey=""` attribute
+* `class` `class=""` attribute
+* `id` `id=""` attribute
